@@ -47,9 +47,6 @@
                       </div>
                 </ul>
                 <br>
-                <div>
-                    <div id="clock" class="clock bg-dark text-light px-2 rounded d-none d-sm-block"></div>
-                </div>
             </div>
         </div>
     </nav>
